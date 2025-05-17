@@ -1,0 +1,5 @@
+Penetration Testing Report Description – Altoro Mutual
+This penetration testing report focuses on the assessment of the Altoro Mutual web application, a deliberately vulnerable online banking platform used for security testing and training purposes. The objective of this test was to identify, exploit, and document common web application vulnerabilities, following industry-standard methodologies such as OWASP Top 10.
+The testing was conducted in a controlled environment using a combination of automated tools and manual techniques. Key phases of the engagement included reconnaissance, vulnerability scanning, exploitation, and post-exploitation analysis. Tools used in this assessment included Burp Suite, OWASP ZAP, Nikto, SQLMap, and Nmap, among others.
+The report details each vulnerability with corresponding evidence, potential impact, and remediation recommendations.
+The goal is to demonstrate the risks associated with poor security practices and to provide actionable insights to improve the overall security posture of the application.
